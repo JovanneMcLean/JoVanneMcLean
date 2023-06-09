@@ -1,16 +1,16 @@
-# 💫Hi,i'm JoVanne few things about me:
+# ✌️Hi,i'm JoVanne few things about me:
 
-- •🌍 Located in **Richmond,VA**
+•🌍 Located in **Richmond,VA**
 
-- •🧠 I’m currently learning **Python**
+•🧠 I’m currently learning **Python**
 
-- •✉️ Best contact is **jovannemclean@outlook.com**
+•✉️ Best contact is **jovannemclean@outlook.com**
 
-- •🤝 I’m open to **collaborating on any projets**
+•🤝 I’m open to **collaborating on any projets**
 
-- •🧑‍💻 I'm currently working on **Media Player**
+•🧑‍💻 I'm currently working on **Media Player**
 
-- •🎮 In my free time **I love to play video games, watch anime, and travel**
+•🎮 In my free time **I love to play video games, watch anime, and travel**
 
 
 ## 🌐 Socials:
