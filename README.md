@@ -1,3 +1,21 @@
+ABOUT ME:
+
+
+- •🌍 Located in **Richmond,VA**
+
+- •🧠 I’m currently learning **Python**
+
+- •✉️ Best contact is **jovannemclean@outlook.com**
+
+- •🤝 I’m open to **collaborating on any projets**
+
+- •🧑‍💻 I'm currently working on **Media Player**
+
+- •🎮 In my free time **I love to play video games, watch anime, and travel**
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jovanne-mclean/) 
