@@ -3,7 +3,7 @@ ABOUT ME:
 
 - •🌍 Located in **Richmond,VA**
 
-- •🧠 I’m currently learning **Python**
+- •🧠 I’m currently learning **Machine Learning**
 
 - •✉️ Best contact is **jovannemclean@outlook.com**
 
