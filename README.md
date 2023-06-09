@@ -1,5 +1,16 @@
 # 💫Hi,i'm JoVanne few things about me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+- •🌍 Located in **Richmond,VA**
+
+- •🧠 I’m currently learning **Python**
+
+- •✉️ Best contact is **jovannemclean@outlook.com**
+
+- •🤝 I’m open to **collaborating on any projets**
+
+- •🧑‍💻 I'm currently working on **Media Player**
+
+- •🎮 In my free time **I love to play video games, watch anime, and travel**
 
 
 ## 🌐 Socials:
