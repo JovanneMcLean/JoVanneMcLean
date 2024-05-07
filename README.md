@@ -1,7 +1,6 @@
 
 
-
-                                                  ##✌️Hi i'm JoVanne, few things about me 
+##✌️Hi i'm JoVanne, few things about me 
 
                                                   
 
