@@ -1,7 +1,7 @@
 
 
 
-                                                                                                  ✌️Hi i'm JoVanne, few things about me    
+                                                                                                  ✌Hi i'm JoVanne, few things about me    
 •🌍 Located in **Richmond,VA**
 
 •🧠 I’m currently learning **Machine Learning**
