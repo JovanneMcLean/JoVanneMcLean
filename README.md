@@ -1,6 +1,6 @@
 
 
-##✌️Hi i'm JoVanne, few things about me 
+<h1 align="center">👋 I'm JoVanne , few things about me</h1>
 
                                                   
 
