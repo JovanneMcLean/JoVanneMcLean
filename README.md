@@ -4,7 +4,7 @@
 - 🧠 Currently diving into **Machine Learning**
 - ✉️ Reach me at **jovannemclean@outlook.com**
 - 🤝 Open to **collaborating on exciting projects**
-- 🧑‍💻 Working on **Mini Projects** project
+- 🧑‍💻 Working on **Mini Projects** 
 - 🎮 In my free time, I enjoy **playing video games, watching anime, and traveling**
 
 ## Connect with me:
